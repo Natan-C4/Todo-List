@@ -1,5 +1,5 @@
 body {
-  background-color: #E4E5E7;
+  background-color: #e4e5e7;
   padding-top: 100px;
 }
 .aside {
@@ -15,8 +15,8 @@ body {
   font-weight: 400;
   padding-top: 5px;
 }
-.task-title--done{
-  color:gray;
+.task-title--done {
+  color: gray;
   text-decoration: line-through;
 }
 
@@ -32,10 +32,10 @@ body {
   opacity: 0;
 }
 
-.notifyHolder{
+.notifyHolder {
   position: absolute;
-  top : 30px;
-  left:50%;
+  top: 30px;
+  left: 50%;
   transform: translateX(-50%);
   opacity: 0;
 }
